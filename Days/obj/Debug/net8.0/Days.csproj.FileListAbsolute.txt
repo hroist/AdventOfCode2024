@@ -16,3 +16,7 @@ C:\Users\hanna\source\repos\AdventOfCode2024\Days\obj\Debug\net8.0\Days.genrunti
 C:\Users\hanna\source\repos\AdventOfCode2024\Days\obj\Debug\net8.0\ref\Days.dll
 C:\Users\hanna\source\repos\AdventOfCode2024\Days\bin\Debug\net8.0\Inputs\Day2.txt
 C:\Users\hanna\source\repos\AdventOfCode2024\Days\bin\Debug\net8.0\Inputs\Day3.txt
+C:\Users\hanna\source\repos\AdventOfCode2024\Days\bin\Debug\net8.0\Inputs\Day4.txt
+C:\Users\hanna\source\repos\AdventOfCode2024\Days\bin\Debug\net8.0\Inputs\Day5.txt
+C:\Users\hanna\source\repos\AdventOfCode2024\Days\bin\Debug\net8.0\Inputs\Day6.txt
+C:\Users\hanna\source\repos\AdventOfCode2024\Days\bin\Debug\net8.0\Inputs\Day7.txt
